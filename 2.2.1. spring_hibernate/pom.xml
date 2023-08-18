@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.javamentor</groupId>
-    <artifactId>spring-hibernate</artifactId>
+    <artifactId>Cars-ORM</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
